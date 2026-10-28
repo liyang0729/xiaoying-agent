@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+.pytest_cache/
+
+.env
+
+输出.txt
+题目.txt
